@@ -2,7 +2,7 @@
 function happyHolidays() {
 return ("Happy holidays!");
 }
-function happyHolidaysTo() {
-var String=tracy;
+function happyHolidaysTo(String) {
+var tracy=string;
 return (`Happy holidays, ${name}!`);
 }
