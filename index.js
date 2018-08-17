@@ -2,8 +2,8 @@
 function happyHolidays() {
 return "Happy holidays!";
 }
-function happyHolidaysTo(name
-  return `Happy holidays, ${tracy}!`;
+function happyHolidaysTo(name) {
+  return `Happy holidays, ${name}!`;
 }
 function happyHolidayTo() {
   var holiday="Independence Day"
