@@ -8,5 +8,5 @@ function happyHolidaysTo(tracy) {
 function happyHolidayTo() {
   var holiday="birthday";
   var name="tracy";
-  return `Happy ${name}, ${tracy}!`;
+  return `Happy ${holiday}, ${name}!`;
 }
