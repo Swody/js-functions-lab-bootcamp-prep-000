@@ -12,5 +12,6 @@ var name="you";
 }
 function holidayCountdown() {
   var days=321;
+  var holiday="Independence Day";
   return `It's $(days),days until ${holiday}!`;
 }
